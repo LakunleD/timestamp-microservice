@@ -9,6 +9,8 @@
   "author": "Olakunle Dosunmu",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^16.5.2"
+    "hapi": "^16.5.2",
+    "hapi-cors-headers": "^1.0.0",
+    "moment": "^2.18.1"
   }
 }
